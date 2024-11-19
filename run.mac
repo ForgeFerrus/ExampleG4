@@ -1,0 +1,14 @@
+#
+/gps/particle e-
+/gps/direction 0 0 1
+/gps/energy 5 MeV
+/gps/position 0 0 -0.3 cm
+/gps/pos/type Beam
+/gps/pos/shape Circle
+/gps/pos/radius 2 cm
+#
+/run/printProgress 1000
+/run/beamOn 10000
+/mpi/status
+#
+
